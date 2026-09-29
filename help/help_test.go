@@ -8,7 +8,7 @@ import (
 	"github.com/charmbracelet/x/ansi"
 	"github.com/charmbracelet/x/exp/golden"
 
-	"charm.land/bubbles/v2/key"
+	"github.com/wolfwfr/bubbles/v2/key"
 )
 
 func TestFullHelp(t *testing.T) {
